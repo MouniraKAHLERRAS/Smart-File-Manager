@@ -70,4 +70,4 @@ Developed as a Python portfolio project.
 
 ## Screenshot
 
-![Smart File Manager Interface](screenshots/interface.png)
+![Smart File Manager Interface](screenshots/interfacepy.png)
