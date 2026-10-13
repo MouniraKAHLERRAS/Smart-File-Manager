@@ -6,7 +6,7 @@ A Python desktop application for organizing files into categorized folders throu
 
 ## Main Interface
 
-![Smart File Manager Main Interface](screenshots/interface.png)
+![Smart File Manager Main Interface](screenshots/interfacepy.png)
 
 *Main interface of the Smart File Manager application.*
 
@@ -54,6 +54,3 @@ Computer Science Graduate | Aspiring Software Developer
 ---
 
 *This project is currently under development. The README will be updated as new features are completed.*
-## Screenshot
-
-![Smart File Manager Interface](screenshots/interfacepy.png)
