@@ -67,3 +67,7 @@ Use simulation mode first. Real organization moves files into category folders.
 ## Author
 
 Developed as a Python portfolio project.
+
+## Screenshot
+
+![Smart File Manager Interface](screenshots/interface.png)
